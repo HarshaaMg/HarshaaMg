@@ -101,7 +101,7 @@ Computer Science undergraduate at **Siddaganga Institute of Technology** with kn
 ## `$ education --list`
 | Education | Institution | Result | Year |
 |---|---|---:|---|
-| B.E. Computer Science | Siddागंगा Institute of Technology, Tumakuru | 8.65 CGPA | 2023–2027 |
+| B.E. Computer Science | Siddaganga Institute of Technology, Tumakuru | 8.65 CGPA | 2023–2027 |
 | PUC (12th) | Presidency PU College, Tumakuru | 88% | 2023 |
 | SSLC (10th) | MJC, Karnataka State Board, Tumakuru | 93.6% | 2021 |
 
